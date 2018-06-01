@@ -10,3 +10,6 @@ A NfcReaderLib for android
 * Handler all exception
 * Never worry about the bytes stream, We use `okio`
 
+来源文章
+https://www.jianshu.com/p/a3a3b3db6b37
+
